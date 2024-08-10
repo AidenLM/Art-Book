@@ -1,4 +1,4 @@
-//Options Menu Ac
+//Options Menu Acc
 
 - res'e tikla Android Resource File a bas
 - resource type'dan Menu secilcek
