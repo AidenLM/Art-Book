@@ -1,4 +1,4 @@
-//Options Menu Accc
+9//Options Menu Accc
 
 - res'e tikla Android Resource File a bas
 - resource type'dan Menu secilcek
@@ -237,4 +237,4 @@ binding.recyclerView.adapter = artAdapter
 
 artAdapter.notifyDataSetChanged()
 // yazdigimiz datalari cekerken bu tablolardan olabilir veya internetten olabilir bunu kullannmakta fayda var
-//bu recyclerViewe degisen veya eklenen verileri kendi icinde guncellemesini istiyoruz
+//bu recyclerViewe degisen veya eklenen verileri kendi icinde guncellemesini istiyoruz.
